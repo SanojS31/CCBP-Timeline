@@ -1,4 +1,4 @@
-## **_Website_**:[https://durgatimeline.ccbp.tech/](https://durgatimeline.ccbp.tech/)🔗
+## **_Website_**:[https://sanojtimeline.ccbp.tech/](https://sanojtimeline.ccbp.tech/)🔗
 
 
 In this project, let's build a **CCBP Timeline** by applying the concepts we have learned till now.
